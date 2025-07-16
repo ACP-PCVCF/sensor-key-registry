@@ -17,7 +17,6 @@ The service will be available at `http://localhost:8003`
 sensor-key-registry/
 ├── main.py              # FastAPI application
 ├── docs/                # Documentation files
-│   ├── README.md        # Complete documentation
 │   ├── API_USAGE.md     # API usage examples
 │   └── CURL_EXAMPLES.md # cURL command examples
 ├── utils/               # Utility modules

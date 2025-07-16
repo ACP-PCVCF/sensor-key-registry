@@ -19,7 +19,6 @@ sensor-key-registry/
 │   ├── API_USAGE.md     # API usage examples
 │   └── CURL_EXAMPLES.md # cURL command examples
 ├── utils/               # Utility modules
-│   ├── copy_keys.py     # Key synchronization
 │   ├── test_api.py      # API tests
 │   ├── client_example.py # Usage examples
 │   └── integration_example.py # Integration workflows

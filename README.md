@@ -53,4 +53,3 @@ sensor-key-registry/
 python utils/test_api.py
 ```
 
-For detailed setup instructions and examples, see the [complete documentation](docs/README.md).

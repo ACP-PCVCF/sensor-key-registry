@@ -31,7 +31,6 @@ sensor-key-registry/
 
 ## Documentation
 
-- **[Complete Documentation](docs/README.md)** - Full setup and usage guide
 - **[API Usage Examples](docs/API_USAGE.md)** - Integration examples for different languages
 - **[cURL Examples](docs/CURL_EXAMPLES.md)** - Command-line testing examples
 

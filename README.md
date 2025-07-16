@@ -5,9 +5,8 @@ A FastAPI microservice for validating RSA public keys against a registry of know
 ## Quick Start
 
 1. **Install dependencies**: `pip install -r requirements.txt`
-2. **Copy keys from sensor service**: `python utils/copy_keys.py`
-3. **Run the service**: `uvicorn main:app --reload --host 0.0.0.0 --port 8003`
-4. **Test the API**: `python utils/test_api.py`
+2. **Run the service**: `uvicorn main:app --reload --host 0.0.0.0 --port 8003`
+3. **Test the API**: `python utils/test_api.py`
 
 The service will be available at `http://localhost:8003`
 

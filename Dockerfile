@@ -10,7 +10,8 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY main.py .
-COPY copy_keys.py .
+COPY utils/ ./utils/
+COPY keys/ ./keys/
 
 RUN mkdir -p /app/keys
 EXPOSE 8003

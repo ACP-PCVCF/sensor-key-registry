@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sensor-key-registry:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-08-15T21:42:37.938312039Z"
+    description: A Helm chart for the sensor-key-registry microservice
+    digest: fab76194ed0fbb02f2ab25a8f47c0d6c1126a3591578e3d5c5dc82e467f667a8
+    name: sensor-key-registry
+    type: application
+    urls:
+    - https://github.com/ACP-PCVCF/sensor-key-registry/releases/download/sensor-key-registry-0.1.0/sensor-key-registry-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-15T21:42:37.938322679Z"
